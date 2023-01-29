@@ -1,4 +1,4 @@
-# Bat-Nuke-Bot-Discord
+# Bta-Nuke-Bot-Discord
 Ez and safe nuke bot
 Fast nuke bot
 
