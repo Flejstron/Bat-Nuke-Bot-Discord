@@ -18,3 +18,7 @@ Fast nuke bot
 ![This is an image](https://media.discordapp.net/attachments/1069011802500890675/1069018017939324998/image.png)
 
 
+
+
+###### Discord
+Join for help :D [Discord](https://discord.gg/RUEjc5dGaG)
